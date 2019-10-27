@@ -1,0 +1,3 @@
+# Add 'new-bitmoji' to any changes within 'bitmojis' folder
+new-bitmoji:
+  - bitmojis/**
